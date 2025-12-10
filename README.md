@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Robert Kawê
+# 👨🏻‍💻 Robert Kawê
 
 **`Aluno Pesquisador`**
 
