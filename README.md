@@ -15,10 +15,11 @@ Me chamo Robert Kawê Linhares Nobre, tenho 22 anos e sou natural do Ceará. Est
 </p>
 <p 
     align="left" 
-    title="Controle Discreto" 
+    title="Controle Robusto" 
     style="padding-right: 15px; font-weight: bold; display: inline-block;"
 >
-    Controle Discreto
+    Controle Robusto
+    
 </p>
 <p 
     align="left" 
